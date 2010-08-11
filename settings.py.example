@@ -1,3 +1,5 @@
 url = "http://example.fogbugz.com/"
 user_email = ""
 user_pass = ""
+
+default_search_prefix = 'Project:"Bookmarks Widget" '
